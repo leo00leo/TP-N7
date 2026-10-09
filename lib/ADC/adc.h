@@ -4,3 +4,4 @@
 
 void adc_init(int pin);
 void adc_read(unsigned int canal);
+#endif
